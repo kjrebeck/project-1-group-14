@@ -1,2 +1,3 @@
 # project-1-group-14
 Data Science Bootcamp Project 1 
+A dataset of 406 survey responses from students at Stellenbosch university was analyzed to examine the relationships between demographic information, academic performance, and alcohol habits. To perform this analysis, a dataset was cleaned, visualizations were created, and correlations and a regression model were developed. The key findings from the dataset indicate a difference in alcohol consumption habits between students on and off scholarship and that modules failed and classes missed are the best predictors of current GPA. All analysis was performed in Python using libraries including MatPlotLib, Seaborn, and SciKitLearn. 
