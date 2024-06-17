@@ -1,0 +1,299 @@
+gender,hs_gpa,year_of_study,field,current_gpa,off_campus,monthly_allowance,scholarship,study_hours,partying_frequency,drinks_consumed,classes_missed,modules_failed,relationship,parents_approval,parent_relationship
+Female,76.0,2,Arts & Social Sciences,72.0,Yes,R 4001- R 5000,No,4,-1,4,3,0,Yes,Yes,Very close
+Male,89.0,2,Economic & Management Sciences,75.0,Yes,R 7001 - R 8000,Yes,4,-1,2,4,0,No,Yes,Very close
+Male,76.0,1,AgriSciences,55.0,Yes,R 4001- R 5000,No,2,2,4,3,0,No,Yes,Very close
+Male,89.0,2,Engineering,84.0,Yes,R 6001 - R 7000,No,2,3,4,2,0,Yes,Yes,Very close
+Female,74.0,2,Arts & Social Sciences,52.0,Yes,R 4001- R 5000,No,2,-1,3,1,3,No,Yes,Fair
+Male,80.0,2,Economic & Management Sciences,54.0,Yes,R 5001 - R 6000,No,4,2,3,1,0,No,Yes,Very close
+Female,85.0,2,Arts & Social Sciences,75.0,Yes,R 5001 - R 6000,No,2,3,2,2,0,Yes,Yes,Very close
+Female,80.0,2,Arts & Social Sciences,75.0,Yes,R 6001 - R 7000,No,4,3,4,0,0,No,Yes,Close
+Male,79.0,2,Economic & Management Sciences,64.0,Yes,R 5001 - R 6000,No,2,2,2,2,4,No,Yes,Very close
+Female,72.0,2,Economic & Management Sciences,76.0,Yes,R 6001 - R 7000,No,1,1,2,0,0,Yes,Yes,Very close
+Female,87.0,1,Science,75.0,Yes,R 4001- R 5000,No,4,-1,1,0,0,No,Yes,Very close
+Male,74.0,1,Economic & Management Sciences,65.0,Yes,R 5001 - R 6000,No,1,4,3,0,0,Yes,Yes,Very close
+Male,69.0,2,Arts & Social Sciences,55.0,Yes,R 6001 - R 7000,No,3,-1,3,3,3,No,Yes,Very close
+Male,79.0,2,Economic & Management Sciences,54.0,No,R 5001 - R 6000,No,3,2,0,0,1,No,Yes,Fair
+Male,80.0,2,Engineering,62.0,Yes,R 4001- R 5000,Yes,4,-1,3,0,2,No,Yes,Very close
+Female,83.0,2,Law,55.0,Yes,R 4001- R 5000,No,1,-1,2,2,4,No,Yes,Very close
+Female,78.0,1,Economic & Management Sciences,76.0,Yes,R 6001 - R 7000,No,4,2,2,2,0,No,Yes,Very close
+Male,74.0,2,Arts & Social Sciences,65.0,Yes,R 6001 - R 7000,No,2,2,4,2,2,No,Yes,Very close
+Male,83.0,3,Engineering,69.0,Yes,R 5001 - R 6000,No,4,-1,2,0,0,Yes,Yes,Very close
+Male,79.0,2,Engineering,60.0,Yes,R 8000+,No,3,-1,4,1,3,No,Yes,Very close
+Female,83.0,2,Economic & Management Sciences,55.0,No,R 5001 - R 6000,No,4,-1,1,0,1,No,Yes,Very close
+Female,79.0,1,Economic & Management Sciences,74.0,Yes,R 6001 - R 7000,No,2,3,3,0,0,No,Yes,Very close
+Male,87.0,2,Engineering,70.0,Yes,R 5001 - R 6000,No,4,1,3,0,0,No,Yes,Very close
+Male,84.0,1,Engineering,60.0,Yes,R 4001- R 5000,No,4,-1,3,0,0,No,Yes,Very close
+Male,86.0,2,Economic & Management Sciences,54.0,Yes,R 5001 - R 6000,No,3,1,3,2,1,Yes,Yes,Very close
+Female,80.0,2,Science,75.0,Yes,R 6001 - R 7000,No,4,1,2,0,1,Yes,Yes,Very close
+Male,80.0,1,Economic & Management Sciences,63.0,Yes,R 4001- R 5000,No,2,0,4,2,0,No,Yes,Very close
+Male,78.0,2,Economic & Management Sciences,73.0,Yes,R 5001 - R 6000,No,3,2,3,2,0,No,Yes,Very close
+Male,73.0,1,Economic & Management Sciences,57.0,Yes,R 5001 - R 6000,No,3,1,4,2,3,Yes,Yes,Close
+Male,99.0,2,Economic & Management Sciences,90.0,Yes,R 4001- R 5000,No,3,-1,2,3,4,No,Yes,Very close
+Female,82.6,2,Arts & Social Sciences,75.0,Yes,R 4001- R 5000,No,4,3,1,0,0,Yes,Yes,Close
+Female,78.0,1,Economic & Management Sciences,78.0,Yes,R 8000+,No,1,3,3,2,0,Yes,Yes,Close
+Female,65.0,2,Economic & Management Sciences,55.0,Yes,R 4001- R 5000,No,2,1,2,2,4,Yes,Yes,Very close
+Male,84.0,2,Economic & Management Sciences,70.0,Yes,R 5001 - R 6000,No,1,1,4,4,0,Yes,Yes,Very close
+Male,81.0,2,Economic & Management Sciences,60.0,Yes,R 6001 - R 7000,No,1,2,3,0,3,Yes,Yes,Very close
+Male,76.0,1,Arts & Social Sciences,61.0,Yes,R 5001 - R 6000,No,2,1,1,0,0,Yes,Yes,Very close
+Male,76.0,2,Economic & Management Sciences,63.0,Yes,R 4001- R 5000,No,4,0,3,0,0,Yes,Yes,Close
+Female,88.0,1,Economic & Management Sciences,60.0,Yes,R 5001 - R 6000,No,1,1,1,0,1,Yes,Yes,Very close
+Male,75.0,2,Economic & Management Sciences,57.0,Yes,R 8000+,No,3,-1,1,1,2,No,Yes,Close
+Male,84.0,1,Science,74.0,No,R 4001- R 5000,No,1,1,1,0,0,No,Yes,Close
+Male,98.0,1,Engineering,89.0,Yes,R 4001- R 5000,Yes,1,-1,4,0,4,Yes,No,Distant
+Male,72.0,2,Arts & Social Sciences,76.0,Yes,R 4001- R 5000,No,1,1,1,0,0,Yes,Yes,Close
+Female,84.0,1,Medicine and Health Services,80.0,No,R 6001 - R 7000,No,4,-1,3,2,0,No,Yes,Very close
+Male,85.0,2,Economic & Management Sciences,66.0,Yes,R 4001- R 5000,Yes,4,1,4,4,0,Yes,Yes,Fair
+Female,84.0,1,Medicine and Health Services,80.0,Yes,R 4001- R 5000,No,1,-1,2,0,0,No,Yes,Very close
+Female,90.0,2,Law,70.0,Yes,R 5001 - R 6000,No,3,-1,2,0,3,No,Yes,Very close
+Female,72.0,3,Education,65.0,Yes,R 6001 - R 7000,No,2,2,3,0,1,No,Yes,Very close
+Female,78.0,1,Science,75.0,Yes,R 4001- R 5000,No,3,3,2,2,0,No,Yes,Close
+Female,83.0,2,Engineering,63.0,Yes,R 4001- R 5000,No,4,-1,2,0,0,No,Yes,Close
+Female,85.0,1,Economic & Management Sciences,80.0,Yes,R 4001- R 5000,No,4,1,1,0,0,Yes,Yes,Very close
+Female,81.0,2,Other,65.0,Yes,R 5001 - R 6000,Yes,4,-1,2,1,1,No,Yes,Very close
+Female,84.0,1,Science,75.0,Yes,R 4001- R 5000,No,4,1,2,3,0,Yes,Yes,Very close
+Male,76.0,2,Science,65.0,Yes,R 7001 - R 8000,No,4,1,0,0,0,Yes,Yes,Very close
+Male,85.0,4,AgriSciences,76.0,Yes,R 6001 - R 7000,No,3,2,4,0,0,Yes,Yes,Very close
+Male,85.0,1,Arts & Social Sciences,58.0,Yes,R 5001 - R 6000,No,2,-1,3,2,0,No,Yes,Very close
+Female,98.3,2,Economic & Management Sciences,95.2,No,R 4001- R 5000,No,4,1,0,0,0,No,Yes,Close
+Female,70.0,1,AgriSciences,60.0,Yes,R 6001 - R 7000,No,3,3,1,0,1,No,No,Very close
+Male,75.0,2,Economic & Management Sciences,65.0,Yes,R 6001 - R 7000,No,4,1,3,0,2,Yes,Yes,Very close
+Male,75.0,2,Economic & Management Sciences,58.0,Yes,R 5001 - R 6000,No,2,2,4,0,0,Yes,No,Very close
+Male,86.0,3,AgriSciences,55.0,Yes,R 5001 - R 6000,Yes,1,1,4,1,3,No,Yes,Very close
+Female,80.0,3,Medicine and Health Services,71.0,Yes,R 8000+,No,3,-1,1,0,0,No,Yes,Very close
+Female,75.0,3,Arts & Social Sciences,60.0,Yes,R 5001 - R 6000,No,4,1,4,0,0,Yes,Yes,Very close
+Female,75.0,2,Economic & Management Sciences,70.0,Yes,R 8000+,No,3,1,3,3,0,No,Yes,Very close
+Female,80.0,2,Economic & Management Sciences,60.0,Yes,R 4001- R 5000,No,4,-1,3,0,1,Yes,Yes,Very close
+Female,75.0,3,Economic & Management Sciences,64.0,Yes,R 5001 - R 6000,No,4,-1,3,0,1,No,Yes,Very close
+Female,85.0,3,Science,84.0,No,R 5001 - R 6000,Yes,4,2,3,0,0,Yes,Yes,Very close
+Female,79.0,2,Economic & Management Sciences,60.0,Yes,R 5001 - R 6000,No,3,1,3,1,2,No,Yes,Very close
+Female,78.0,2,Law,66.0,Yes,R 6001 - R 7000,No,2,1,3,3,1,No,Yes,Very close
+Male,65.0,1,Economic & Management Sciences,65.0,Yes,R 4001- R 5000,No,2,2,2,1,0,No,Yes,Very close
+Female,82.0,2,Engineering,53.0,Yes,R 4001- R 5000,No,3,1,3,2,4,No,Yes,Very close
+Female,77.0,1,AgriSciences,62.0,Yes,R 5001 - R 6000,No,3,-1,2,0,0,No,Yes,Very close
+Female,85.0,2,Science,65.0,Yes,R 7001 - R 8000,No,4,1,3,3,0,No,Yes,Very close
+Female,81.0,3,Arts & Social Sciences,62.0,Yes,R 8000+,No,3,-1,3,1,1,Yes,Yes,Close
+Male,77.0,2,Economic & Management Sciences,61.0,Yes,R 7001 - R 8000,No,4,2,4,1,1,No,Yes,Very close
+Male,82.0,2,Economic & Management Sciences,73.0,Yes,R 4001- R 5000,No,3,-1,4,1,0,No,Yes,Fair
+Female,73.0,3,Economic & Management Sciences,60.0,Yes,R 5001 - R 6000,No,2,3,3,1,0,No,Yes,Close
+Male,70.0,2,Economic & Management Sciences,60.0,Yes,R 7001 - R 8000,No,2,1,2,0,0,Yes,Yes,Very close
+Male,75.0,3,AgriSciences,64.0,Yes,R 4001- R 5000,No,2,2,2,1,0,No,Yes,Very close
+Male,78.0,2,Economic & Management Sciences,62.0,Yes,R 5001 - R 6000,No,4,1,3,1,1,No,Yes,Very close
+Female,73.0,1,Arts & Social Sciences,69.0,Yes,R 6001 - R 7000,No,2,2,2,0,0,Yes,Yes,Very close
+Male,74.0,2,Economic & Management Sciences,57.0,Yes,R 7001 - R 8000,No,3,-1,3,2,1,No,No,Fair
+Male,77.0,1,Economic & Management Sciences,60.0,Yes,R 4001- R 5000,No,3,-1,1,0,0,Yes,No,Very close
+Male,80.0,2,Engineering,60.0,Yes,R 8000+,No,0,1,0,4,0,Yes,Yes,Very close
+Female,78.0,1,Economic & Management Sciences,66.0,Yes,R 4001- R 5000,Yes,2,-1,3,2,3,Yes,No,Very close
+Male,72.0,1,Economic & Management Sciences,70.0,Yes,R 6001 - R 7000,No,0,1,4,0,0,No,Yes,Fair
+Male,80.0,3,Science,65.0,Yes,R 8000+,No,3,1,2,0,1,Yes,Yes,Close
+Male,75.0,2,Economic & Management Sciences,72.0,Yes,R 5001 - R 6000,No,0,-1,4,4,0,No,Yes,Close
+Female,73.0,2,Economic & Management Sciences,62.0,Yes,R 7001 - R 8000,No,4,2,2,1,2,Yes,Yes,Very close
+Female,86.0,3,Science,76.0,Yes,R 4001- R 5000,No,3,1,3,1,0,No,Yes,Close
+Male,70.0,1,AgriSciences,75.0,Yes,R 5001 - R 6000,No,3,-1,3,0,0,Yes,Yes,Very close
+Male,85.0,1,Science,88.0,Yes,R 4001- R 5000,Yes,4,-1,0,0,0,Yes,Yes,Distant
+Female,72.0,2,Arts & Social Sciences,61.0,Yes,R 4001- R 5000,No,2,-1,1,0,0,Yes,Yes,Very close
+Male,73.0,1,Economic & Management Sciences,52.0,Yes,R 4001- R 5000,No,2,2,1,1,4,No,Yes,Very close
+Female,76.0,5,Economic & Management Sciences,79.0,Yes,R 8000+,No,3,2,1,0,0,No,Yes,Very close
+Male,76.0,1,Engineering,56.0,No,R 4001- R 5000,No,4,-1,1,0,0,Yes,Yes,Close
+Male,82.0,2,Arts & Social Sciences,70.0,No,R 4001- R 5000,No,1,2,4,4,0,Yes,Yes,Close
+Male,82.0,2,Economic & Management Sciences,60.0,Yes,R 4001- R 5000,No,4,1,3,0,0,No,Yes,Very close
+Male,68.0,2,AgriSciences,57.0,Yes,R 4001- R 5000,No,2,1,3,1,3,Yes,No,Close
+Female,84.0,1,Science,64.0,Yes,R 4001- R 5000,No,1,2,2,1,0,No,Yes,Very close
+Male,79.0,2,Economic & Management Sciences,60.0,Yes,R 8000+,No,4,1,3,2,2,No,No,Close
+Male,89.0,2,Economic & Management Sciences,74.0,No,R 4001- R 5000,No,2,1,2,0,0,No,Yes,Very close
+Female,82.0,2,Education,73.0,Yes,R 5001 - R 6000,No,2,-1,3,0,0,Yes,Yes,Close
+Female,83.0,2,Economic & Management Sciences,51.0,Yes,R 4001- R 5000,No,4,-1,1,0,4,Yes,Yes,Fair
+Male,83.0,2,Engineering,60.0,No,R 4001- R 5000,No,3,3,3,4,1,No,Yes,Very close
+Female,76.0,2,Economic & Management Sciences,60.0,Yes,R 5001 - R 6000,No,2,3,3,2,2,No,Yes,Very close
+Female,76.0,1,Arts & Social Sciences,54.0,Yes,R 5001 - R 6000,No,1,4,3,4,3,Yes,Yes,Very close
+Male,78.0,1,Science,65.0,No,R 5001 - R 6000,No,1,-1,0,0,2,No,Yes,Very close
+Male,79.0,2,Economic & Management Sciences,64.0,Yes,R 5001 - R 6000,No,2,2,2,3,3,Yes,Yes,Very close
+Female,72.0,1,Economic & Management Sciences,61.0,Yes,R 4001- R 5000,No,2,1,0,0,1,No,Yes,Very close
+Male,70.0,5,AgriSciences,68.0,Yes,R 4001- R 5000,No,1,3,2,2,0,No,Yes,Very close
+Male,72.0,2,Economic & Management Sciences,53.0,Yes,R 4001- R 5000,No,3,-1,4,0,4,Yes,Yes,Close
+Female,76.0,1,Economic & Management Sciences,50.0,No,R 7001 - R 8000,No,0,-1,3,0,4,Yes,Yes,Very close
+Female,81.0,1,AgriSciences,64.0,Yes,R 4001- R 5000,No,1,1,3,1,0,No,No,Close
+Female,85.0,2,Economic & Management Sciences,73.0,Yes,R 5001 - R 6000,No,4,2,1,4,0,Yes,Yes,Very close
+Female,85.0,2,Economic & Management Sciences,73.0,Yes,R 5001 - R 6000,No,4,2,1,4,0,Yes,Yes,Very close
+Female,80.0,2,Economic & Management Sciences,50.0,Yes,R 5001 - R 6000,No,3,1,1,0,1,Yes,Yes,Very close
+Female,84.0,2,Economic & Management Sciences,68.0,Yes,R 6001 - R 7000,No,3,3,2,1,0,No,Yes,Very close
+Male,69.0,4,AgriSciences,65.0,Yes,R 7001 - R 8000,No,3,2,4,2,2,No,Yes,Very close
+Male,76.0,4,Economic & Management Sciences,71.0,Yes,R 5001 - R 6000,No,1,1,3,0,0,No,Yes,Very close
+Female,78.0,2,Arts & Social Sciences,65.0,Yes,R 5001 - R 6000,No,3,-1,2,2,1,No,Yes,Close
+Female,88.0,2,Economic & Management Sciences,72.0,Yes,R 4001- R 5000,No,4,1,1,1,0,Yes,Yes,Fair
+Female,92.0,3,Science,70.0,Yes,R 7001 - R 8000,No,2,4,4,2,0,No,Yes,Very close
+Male,74.0,3,Economic & Management Sciences,77.0,Yes,R 6001 - R 7000,No,2,1,4,1,0,Yes,Yes,Very close
+Male,78.0,2,AgriSciences,60.0,No,R 4001- R 5000,No,0,3,4,4,0,No,Yes,Close
+Female,90.0,1,Economic & Management Sciences,75.0,No,R 4001- R 5000,Yes,2,-1,1,0,1,No,Yes,Close
+Male,84.0,2,Economic & Management Sciences,68.0,No,R 4001- R 5000,No,1,4,3,0,0,No,Yes,Close
+Male,80.0,4,Economic & Management Sciences,63.0,Yes,R 5001 - R 6000,No,4,-1,3,0,2,Yes,Yes,Very close
+Male,71.0,2,Economic & Management Sciences,55.0,Yes,R 6001 - R 7000,No,4,-1,4,2,2,Yes,Yes,Very close
+Female,80.0,2,Economic & Management Sciences,73.0,Yes,R 7001 - R 8000,No,2,1,1,1,0,Yes,No,Very close
+Female,75.0,2,Arts & Social Sciences,80.0,Yes,R 6001 - R 7000,No,2,-1,3,0,0,No,Yes,Close
+Male,82.0,2,Economic & Management Sciences,69.0,No,R 4001- R 5000,No,0,4,4,0,0,No,No,Very close
+Female,80.0,2,Arts & Social Sciences,70.0,Yes,R 6001 - R 7000,No,4,3,2,4,0,Yes,Yes,Very close
+Male,73.0,2,Economic & Management Sciences,73.5,Yes,R 4001- R 5000,No,4,-1,2,0,0,Yes,Yes,Very close
+Male,63.0,1,Economic & Management Sciences,68.0,Yes,R 4001- R 5000,No,2,3,4,1,0,No,Yes,Close
+Female,79.0,1,Education,77.0,Yes,R 7001 - R 8000,Yes,3,3,1,0,0,No,Yes,Very close
+Female,81.0,2,Science,70.0,Yes,R 4001- R 5000,No,2,-1,1,0,1,No,No,Very close
+Female,82.0,2,Economic & Management Sciences,60.0,Yes,R 7001 - R 8000,No,4,2,1,0,4,No,Yes,Very close
+Female,75.0,3,Economic & Management Sciences,50.0,Yes,R 7001 - R 8000,No,0,-1,2,0,4,Yes,Yes,Very close
+Female,72.0,1,Arts & Social Sciences,73.0,Yes,R 4001- R 5000,No,1,-1,3,0,0,No,Yes,Close
+Female,70.0,2,Arts & Social Sciences,65.0,Yes,R 4001- R 5000,Yes,1,3,0,0,1,Yes,Yes,Fair
+Female,86.0,2,Science,75.0,Yes,R 4001- R 5000,No,3,-1,2,0,0,No,Yes,Fair
+Male,76.0,1,AgriSciences,62.0,Yes,R 5001 - R 6000,No,4,1,3,3,0,No,Yes,Very close
+Male,80.0,1,Economic & Management Sciences,63.0,No,R 4001- R 5000,No,4,3,3,3,0,No,Yes,Fair
+Male,76.0,3,Science,62.0,Yes,R 5001 - R 6000,No,4,1,3,1,3,Yes,No,Fair
+Male,75.0,1,Science,60.0,Yes,R 4001- R 5000,No,3,3,4,3,2,No,Yes,Very close
+Female,83.0,3,Economic & Management Sciences,55.0,Yes,R 5001 - R 6000,No,4,-1,1,0,1,Yes,Yes,Very close
+Female,70.0,1,Economic & Management Sciences,65.0,Yes,R 5001 - R 6000,No,4,2,3,1,0,Yes,Yes,Very close
+Female,70.0,1,Science,57.0,Yes,R 5001 - R 6000,Yes,4,-1,1,0,1,Yes,Yes,Very close
+Female,81.0,2,Arts & Social Sciences,72.0,Yes,R 4001- R 5000,Yes,2,2,2,0,0,No,Yes,Very close
+Male,75.0,2,Science,50.0,Yes,R 6001 - R 7000,No,1,-1,2,0,4,Yes,Yes,Close
+Male,83.0,2,Economic & Management Sciences,51.0,Yes,R 4001- R 5000,No,3,-1,2,0,4,Yes,Yes,Very close
+Male,92.0,4,Economic & Management Sciences,88.0,Yes,R 5001 - R 6000,No,4,-1,1,0,0,No,Yes,Very close
+Male,72.0,1,Economic & Management Sciences,54.0,Yes,R 6001 - R 7000,No,1,3,4,4,3,No,Yes,Very close
+Female,83.0,1,Science,68.0,Yes,R 6001 - R 7000,No,3,3,1,0,0,No,Yes,Very close
+Male,79.0,2,Economic & Management Sciences,59.0,No,R 4001- R 5000,No,4,1,3,0,3,No,Yes,Very close
+Male,67.0,1,Economic & Management Sciences,65.0,Yes,R 5001 - R 6000,No,1,2,3,2,0,No,Yes,Close
+Male,67.0,1,Economic & Management Sciences,77.0,No,R 5001 - R 6000,No,3,2,4,0,0,No,Yes,Very close
+Female,71.0,1,Economic & Management Sciences,62.0,Yes,R 8000+,No,2,-1,1,0,1,No,Yes,Very close
+Male,78.0,1,Economic & Management Sciences,60.0,Yes,R 4001- R 5000,No,2,0,0,0,1,No,No,Very close
+Female,83.0,1,Economic & Management Sciences,84.0,Yes,R 4001- R 5000,No,0,2,0,0,0,Yes,Yes,Fair
+Female,76.0,1,Economic & Management Sciences,70.0,Yes,R 8000+,No,2,-1,2,0,1,No,Yes,Very close
+Female,75.0,1,Economic & Management Sciences,60.0,Yes,R 8000+,No,0,3,4,1,0,Yes,Yes,Very close
+Male,80.0,3,Economic & Management Sciences,63.0,Yes,R 5001 - R 6000,No,1,2,3,3,0,Yes,Yes,Very close
+Female,78.0,1,Economic & Management Sciences,80.0,No,R 6001 - R 7000,No,1,2,3,1,0,Yes,Yes,Close
+Female,67.0,1,Economic & Management Sciences,78.0,Yes,R 5001 - R 6000,No,1,1,3,1,1,Yes,Yes,Very close
+Female,70.0,2,Economic & Management Sciences,76.0,No,R 4001- R 5000,No,1,2,2,1,0,No,Yes,Very close
+Female,67.0,2,Arts & Social Sciences,63.0,Yes,R 4001- R 5000,No,2,-1,1,0,2,No,No,Close
+Male,85.0,3,Science,65.0,No,R 5001 - R 6000,No,2,0,3,0,2,No,Yes,Close
+Female,73.0,2,Economic & Management Sciences,58.0,Yes,R 5001 - R 6000,No,2,-1,1,0,2,No,No,Fair
+Male,84.0,2,Economic & Management Sciences,67.0,Yes,R 5001 - R 6000,No,3,1,4,1,0,No,Yes,Very close
+Male,76.0,1,Economic & Management Sciences,59.0,Yes,R 4001- R 5000,No,1,2,4,2,0,No,Yes,Very close
+Female,65.0,2,Arts & Social Sciences,65.0,Yes,R 4001- R 5000,No,3,-1,1,0,2,No,No,Close
+Male,87.0,3,Economic & Management Sciences,74.0,No,R 4001- R 5000,Yes,4,2,4,3,0,No,Yes,Very close
+Female,78.0,2,Economic & Management Sciences,64.0,Yes,R 5001 - R 6000,No,3,2,3,4,4,Yes,Yes,Very close
+Male,80.0,2,Engineering,65.0,No,R 4001- R 5000,Yes,2,1,1,1,4,Yes,No,Fair
+Female,67.0,1,Economic & Management Sciences,80.0,Yes,R 4001- R 5000,No,1,3,3,2,0,No,Yes,Close
+Male,72.0,1,Arts & Social Sciences,64.0,Yes,R 6001 - R 7000,No,3,3,4,0,0,No,Yes,Very close
+Female,75.0,2,Economic & Management Sciences,75.0,Yes,R 4001- R 5000,No,3,0,1,0,0,Yes,Yes,Very close
+Female,82.0,2,Economic & Management Sciences,72.0,Yes,R 5001 - R 6000,No,2,3,1,0,0,No,Yes,Close
+Male,82.0,3,Economic & Management Sciences,63.0,Yes,R 5001 - R 6000,No,4,1,2,0,0,Yes,Yes,Close
+Female,80.0,3,Education,74.0,Yes,R 7001 - R 8000,No,3,2,1,0,0,No,Yes,Very close
+Female,65.0,3,Economic & Management Sciences,60.0,Yes,R 4001- R 5000,No,3,-1,1,0,1,No,No,Very close
+Male,85.0,2,Economic & Management Sciences,60.0,Yes,R 4001- R 5000,No,4,1,3,2,2,No,Yes,Very close
+Male,69.0,2,Economic & Management Sciences,55.0,Yes,R 5001 - R 6000,No,0,1,2,0,1,Yes,Yes,Very close
+Female,68.0,1,Economic & Management Sciences,55.0,Yes,R 4001- R 5000,Yes,2,0,0,0,1,No,No,Very close
+Male,72.0,1,Economic & Management Sciences,58.0,Yes,R 6001 - R 7000,No,1,3,4,2,0,No,Yes,Very close
+Male,84.0,1,Science,92.0,No,R 5001 - R 6000,No,2,-1,4,0,0,Yes,Yes,Very close
+Male,70.0,3,Economic & Management Sciences,53.0,Yes,R 4001- R 5000,No,2,1,4,4,4,Yes,Yes,Very close
+Male,82.0,3,Economic & Management Sciences,77.0,No,R 5001 - R 6000,Yes,4,0,0,0,0,No,Yes,Close
+Female,70.0,1,Economic & Management Sciences,70.0,Yes,R 4001- R 5000,No,1,-1,1,1,0,Yes,Yes,Very close
+Female,78.0,2,Economic & Management Sciences,57.0,Yes,R 8000+,No,3,3,3,0,4,No,Yes,Very close
+Female,95.0,2,Engineering,87.6,Yes,R 8000+,No,4,-1,1,0,0,No,Yes,Very close
+Female,75.0,1,Economic & Management Sciences,60.0,Yes,R 4001- R 5000,Yes,2,-1,1,0,0,Yes,No,Close
+Female,80.0,4,Economic & Management Sciences,55.0,Yes,R 5001 - R 6000,No,2,1,1,1,4,No,Yes,Very close
+Male,86.0,1,Science,73.0,No,R 7001 - R 8000,No,4,2,2,4,0,No,Yes,Very close
+Male,84.0,1,Science,76.0,Yes,R 7001 - R 8000,No,4,1,2,2,0,No,Yes,Very close
+Female,82.0,2,Arts & Social Sciences,68.0,Yes,R 4001- R 5000,No,2,1,4,1,3,No,Yes,Very close
+Male,73.0,2,Economic & Management Sciences,57.0,Yes,R 4001- R 5000,Yes,4,1,1,1,3,No,No,Close
+Female,75.0,1,AgriSciences,63.0,Yes,R 5001 - R 6000,No,4,2,1,2,0,Yes,Yes,Close
+Male,74.0,1,Economic & Management Sciences,64.0,Yes,R 4001- R 5000,Yes,3,1,4,1,0,No,Yes,Very close
+Male,68.0,1,Economic & Management Sciences,55.0,No,R 4001- R 5000,No,1,3,4,4,1,No,No,Very close
+Male,78.0,1,Science,76.0,Yes,R 6001 - R 7000,No,1,3,2,4,0,No,No,Very close
+Male,77.0,1,Economic & Management Sciences,65.0,Yes,R 5001 - R 6000,No,3,1,4,2,0,No,Yes,Close
+Female,79.0,1,Economic & Management Sciences,71.0,Yes,R 8000+,No,4,2,3,0,0,Yes,No,Fair
+Male,78.0,1,Economic & Management Sciences,73.0,Yes,R 6001 - R 7000,No,3,3,4,2,2,No,Yes,Fair
+Male,86.4,1,Engineering,57.0,No,R 4001- R 5000,No,1,2,4,2,0,Yes,Yes,Very close
+Male,82.0,5,Engineering,62.0,Yes,R 7001 - R 8000,No,4,1,4,0,1,Yes,Yes,Very close
+Male,60.0,1,Economic & Management Sciences,75.0,Yes,R 4001- R 5000,No,1,1,3,0,0,Yes,Yes,Very close
+Male,84.0,1,Science,69.0,Yes,R 5001 - R 6000,Yes,3,2,2,0,0,No,Yes,Very close
+Male,75.0,1,Economic & Management Sciences,65.0,Yes,R 5001 - R 6000,No,2,4,3,4,0,Yes,Yes,Close
+Male,81.0,2,Economic & Management Sciences,64.0,Yes,R 6001 - R 7000,No,4,1,4,2,3,Yes,Yes,Very close
+Female,85.0,2,Science,76.0,Yes,R 6001 - R 7000,No,4,1,1,1,2,No,Yes,Very close
+Male,95.5,5,Engineering,65.0,Yes,R 4001- R 5000,Yes,4,3,4,0,0,Yes,Yes,Fair
+Male,76.0,1,Science,60.0,Yes,R 5001 - R 6000,No,1,1,4,1,1,No,Yes,Close
+Male,72.0,3,Law,68.0,Yes,R 8000+,No,4,3,3,0,0,Yes,Yes,Close
+Male,76.0,2,Economic & Management Sciences,64.0,Yes,R 8000+,No,4,3,3,2,1,Yes,Yes,Close
+Female,71.0,1,Education,67.0,Yes,R 4001- R 5000,Yes,3,2,3,3,1,No,Yes,Very close
+Female,72.0,1,AgriSciences,77.0,Yes,R 4001- R 5000,No,2,1,2,0,0,Yes,Yes,Very close
+Female,78.0,2,Arts & Social Sciences,83.0,Yes,R 7001 - R 8000,No,4,-1,2,0,0,No,Yes,Very close
+Female,87.0,2,Science,61.0,Yes,R 5001 - R 6000,No,4,3,1,0,1,Yes,Yes,Very close
+Female,76.0,1,Economic & Management Sciences,65.0,Yes,R 5001 - R 6000,No,3,-1,1,0,0,No,Yes,Very close
+Male,76.0,2,Economic & Management Sciences,65.0,Yes,R 4001- R 5000,No,2,3,3,0,2,No,Yes,Very close
+Female,94.0,2,Economic & Management Sciences,67.0,No,R 4001- R 5000,No,4,-1,1,0,1,No,Yes,Very close
+Female,78.0,1,Engineering,58.0,Yes,R 6001 - R 7000,No,3,2,2,2,0,No,Yes,Very close
+Female,84.0,2,Economic & Management Sciences,61.0,Yes,R 5001 - R 6000,No,1,2,3,3,0,Yes,Yes,Close
+Female,79.0,2,Economic & Management Sciences,77.0,Yes,R 5001 - R 6000,No,1,1,1,0,0,Yes,Yes,Close
+Male,80.0,2,Science,57.0,Yes,R 4001- R 5000,No,2,1,3,1,1,No,Yes,Close
+Male,67.0,1,Economic & Management Sciences,30.0,Yes,R 4001- R 5000,No,1,4,4,4,4,No,Yes,Very close
+Female,76.0,1,Economic & Management Sciences,80.0,Yes,R 4001- R 5000,No,1,2,4,1,4,No,Yes,Very close
+Male,72.0,1,Economic & Management Sciences,65.0,Yes,R 6001 - R 7000,No,3,1,4,0,0,Yes,Yes,Fair
+Male,73.0,1,Arts & Social Sciences,70.0,Yes,R 7001 - R 8000,No,2,2,3,1,0,No,Yes,Very close
+Male,78.0,1,Economic & Management Sciences,83.0,Yes,R 4001- R 5000,No,1,3,4,2,0,Yes,Yes,Very close
+Male,82.0,1,Engineering,73.0,Yes,R 5001 - R 6000,No,4,2,2,0,0,No,Yes,Very close
+Female,75.0,1,Economic & Management Sciences,89.0,Yes,R 6001 - R 7000,No,3,0,2,0,0,Yes,Yes,Very close
+Male,67.0,2,Economic & Management Sciences,81.0,Yes,R 5001 - R 6000,No,4,3,3,1,1,No,Yes,Very close
+Female,78.0,2,Economic & Management Sciences,71.0,Yes,R 4001- R 5000,No,3,2,2,2,0,No,Yes,Fair
+Female,79.0,1,Economic & Management Sciences,76.0,Yes,R 5001 - R 6000,No,1,2,2,0,0,Yes,Yes,Very close
+Female,89.0,2,Economic & Management Sciences,80.0,Yes,R 8000+,No,2,3,2,1,0,Yes,Yes,Very close
+Male,73.0,2,Medicine and Health Services,62.0,Yes,R 4001- R 5000,No,2,1,3,1,0,No,Yes,Close
+Male,85.0,2,Economic & Management Sciences,58.0,No,R 4001- R 5000,No,4,1,4,2,1,No,Yes,Close
+Male,72.0,1,Economic & Management Sciences,76.0,Yes,R 6001 - R 7000,No,0,1,2,0,4,No,Yes,Fair
+Female,83.0,2,Arts & Social Sciences,72.0,Yes,R 6001 - R 7000,No,1,1,3,2,0,No,Yes,Very close
+Male,83.0,2,Economic & Management Sciences,55.0,No,R 4001- R 5000,No,2,2,2,2,2,Yes,Yes,Very close
+Female,78.0,2,Economic & Management Sciences,70.0,Yes,R 7001 - R 8000,Yes,1,1,2,1,1,Yes,Yes,Close
+Male,66.0,3,AgriSciences,61.0,Yes,R 5001 - R 6000,No,1,2,4,1,2,No,Yes,Very close
+Female,90.0,3,Economic & Management Sciences,73.0,Yes,R 5001 - R 6000,No,4,1,1,0,0,Yes,Yes,Very close
+Male,82.0,3,Engineering,74.0,Yes,R 5001 - R 6000,No,4,0,3,0,0,Yes,Yes,Close
+Male,77.0,3,Law,63.0,Yes,R 6001 - R 7000,No,2,1,4,3,1,No,Yes,Close
+Female,83.0,3,Engineering,61.0,Yes,R 5001 - R 6000,No,4,-1,3,1,1,Yes,Yes,Very close
+Male,76.0,2,Science,58.0,No,R 4001- R 5000,No,2,1,3,2,0,No,Yes,Very close
+Female,76.0,3,Science,63.0,Yes,R 5001 - R 6000,No,1,3,1,0,0,Yes,Yes,Very close
+Female,73.0,1,Engineering,59.0,Yes,R 4001- R 5000,No,4,-1,1,0,0,Yes,Yes,Very close
+Male,74.0,2,Economic & Management Sciences,56.0,No,R 4001- R 5000,Yes,4,1,1,1,0,Yes,No,Fair
+Male,68.0,1,Arts & Social Sciences,54.0,Yes,R 8000+,No,1,2,3,2,2,No,No,Close
+Male,80.0,2,Law,60.0,No,R 4001- R 5000,Yes,1,1,3,0,3,Yes,Yes,Fair
+Female,65.0,2,Economic & Management Sciences,80.0,Yes,R 5001 - R 6000,No,0,4,4,0,0,No,Yes,Very close
+Male,75.0,3,Economic & Management Sciences,80.0,Yes,R 4001- R 5000,No,3,-1,1,0,0,No,Yes,Very close
+Male,71.0,1,Economic & Management Sciences,77.0,Yes,R 5001 - R 6000,No,2,2,2,1,0,No,Yes,Very close
+Female,85.0,2,Engineering,60.0,Yes,R 5001 - R 6000,No,4,-1,3,0,2,No,Yes,Close
+Male,70.0,1,Economic & Management Sciences,76.0,Yes,R 4001- R 5000,No,3,-1,1,1,0,Yes,No,Very close
+Female,74.0,2,Medicine and Health Services,69.7,Yes,R 5001 - R 6000,No,3,3,4,2,0,Yes,Yes,Very close
+Male,86.0,2,Economic & Management Sciences,85.0,Yes,R 5001 - R 6000,No,0,1,2,0,2,Yes,Yes,Fair
+Male,83.0,2,Economic & Management Sciences,70.0,Yes,R 7001 - R 8000,No,4,3,4,2,1,Yes,Yes,Close
+Male,78.0,2,Economic & Management Sciences,63.0,Yes,R 5001 - R 6000,No,4,1,3,0,3,No,Yes,Close
+Male,83.0,2,Economic & Management Sciences,63.0,No,R 4001- R 5000,No,1,4,2,1,0,No,No,Very close
+Male,78.0,1,Economic & Management Sciences,85.0,Yes,R 4001- R 5000,No,1,2,3,1,0,No,Yes,Very close
+Male,75.0,3,Engineering,59.0,Yes,R 4001- R 5000,No,2,-1,2,0,2,Yes,No,Close
+Female,87.0,2,Economic & Management Sciences,74.0,No,R 4001- R 5000,No,2,2,1,0,0,No,No,Fair
+Male,77.0,1,Economic & Management Sciences,64.0,Yes,R 4001- R 5000,No,0,4,1,0,0,Yes,Yes,Very close
+Male,85.0,5,AgriSciences,78.0,Yes,R 6001 - R 7000,No,4,3,4,0,0,Yes,Yes,Very close
+Male,60.0,2,Arts & Social Sciences,50.0,Yes,R 4001- R 5000,No,2,2,3,0,3,No,Yes,Fair
+Male,80.0,2,Science,50.0,Yes,R 5001 - R 6000,No,4,1,1,0,3,No,No,Close
+Female,80.0,3,Law,75.0,Yes,R 6001 - R 7000,No,4,-1,1,1,1,No,No,Fair
+Male,75.0,1,Science,63.0,Yes,R 5001 - R 6000,No,2,-1,2,0,0,No,Yes,Very close
+Male,76.0,1,Science,56.0,Yes,R 4001- R 5000,No,1,0,0,0,1,No,Yes,Very close
+Female,83.0,1,Arts & Social Sciences,61.0,Yes,R 5001 - R 6000,No,4,3,2,0,0,No,Yes,Very close
+Male,80.0,1,Arts & Social Sciences,74.0,Yes,R 4001- R 5000,No,2,2,3,1,0,Yes,Yes,Very close
+Female,70.0,2,Economic & Management Sciences,60.0,Yes,R 4001- R 5000,No,4,-1,2,0,0,No,Yes,Close
+Male,86.0,2,Economic & Management Sciences,69.0,Yes,R 5001 - R 6000,No,1,2,4,2,0,Yes,Yes,Very close
+Female,85.0,1,Medicine and Health Services,60.0,Yes,R 4001- R 5000,No,1,2,2,3,0,Yes,Yes,Very close
+Male,79.0,1,Economic & Management Sciences,83.0,Yes,R 7001 - R 8000,No,4,3,1,0,0,Yes,Yes,Very close
+Male,70.0,2,Economic & Management Sciences,56.0,Yes,R 8000+,No,2,4,4,2,3,No,Yes,Very close
+Female,75.0,1,Arts & Social Sciences,65.0,Yes,R 4001- R 5000,No,1,-1,2,0,2,Yes,Yes,Very close
+Female,78.0,2,Medicine and Health Services,79.0,Yes,R 6001 - R 7000,No,1,1,1,0,0,Yes,Yes,Very close
+Male,76.0,2,Economic & Management Sciences,64.0,Yes,R 4001- R 5000,No,2,1,3,1,1,No,Yes,Very close
+Male,76.0,2,Economic & Management Sciences,57.0,Yes,R 4001- R 5000,No,4,1,1,0,0,No,Yes,Very close
+Female,85.0,1,Economic & Management Sciences,58.0,Yes,R 8000+,No,1,3,2,2,0,Yes,Yes,Close
+Female,86.0,1,Science,71.0,Yes,R 4001- R 5000,No,4,1,0,0,0,Yes,Yes,Very close
+Male,78.0,3,Law,66.0,Yes,R 4001- R 5000,No,0,1,1,1,0,Yes,Yes,Close
+Male,64.0,1,Economic & Management Sciences,70.0,Yes,R 8000+,No,0,4,4,0,1,Yes,Yes,Very close
+Female,78.0,1,Other,51.0,Yes,R 4001- R 5000,No,1,2,3,1,0,No,Yes,Close
+Male,76.0,1,Science,58.0,Yes,R 5001 - R 6000,No,1,2,4,1,1,No,Yes,Close
+Male,75.0,2,Economic & Management Sciences,80.0,Yes,R 8000+,No,0,4,4,4,0,No,No,Very close
+Female,78.0,2,Medicine and Health Services,74.0,Yes,R 4001- R 5000,No,1,-1,1,0,0,No,Yes,Very close
+Male,86.0,1,Economic & Management Sciences,70.0,Yes,R 4001- R 5000,No,3,2,2,2,0,Yes,Yes,Fair
+Female,74.0,2,Economic & Management Sciences,60.0,Yes,R 6001 - R 7000,No,3,-1,1,0,3,No,No,Close
+Female,73.0,2,Economic & Management Sciences,58.0,Yes,R 6001 - R 7000,Yes,3,1,4,0,0,Yes,Yes,Very close
+Female,80.0,1,Other,63.0,Yes,R 5001 - R 6000,No,2,-1,2,1,0,No,No,Close
